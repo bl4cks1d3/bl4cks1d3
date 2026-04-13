@@ -70,7 +70,7 @@ Minha abordagem:
 
 ### 🟣 Bolão Farid (2022 - 2023)
 
-```diff
+```bash
 + Sistema completo de apostas esportivas
 ```
 
@@ -82,7 +82,7 @@ Minha abordagem:
 
 ### 🟣 Roleta Premiada Farid (2023)
 
-```diff
+```bash
 + Sistema promocional com integração fiscal
 ```
 
@@ -95,7 +95,7 @@ Minha abordagem:
 
 ### 🟣 Landing Page Aurora (2023)
 
-```diff
+```bash
 + Projeto focado em experiência e conversão
 ```
 
@@ -107,7 +107,7 @@ Minha abordagem:
 
 ### 🟣 Ritmoon (2024 - Atual)
 
-```diff
+```bash
 + SaaS em desenvolvimento (HealthTech)
 ```
 
@@ -119,7 +119,7 @@ Minha abordagem:
 
 ### 🟣 Capgemini (2022 - 2023)
 
-```diff
+```bash
 + Sistemas bancários críticos
 ```
 
