@@ -168,7 +168,6 @@ Minha abordagem:
 ## 📫 Contato
 
 * 📧 Email: [wcsd1995@gmail.com](mailto:wcsd1995@gmail.com)
-* 📱 WhatsApp: (71) 99245-9427
 * 💻 GitHub: [https://github.com/bl4cks1d3](https://github.com/bl4cks1d3)
 
 ---
